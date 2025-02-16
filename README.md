@@ -1,2 +1,2 @@
-# C-Programming---Gra-hics.h-Library-
+# C-Programming Grahics.h Library
 Soldier DataBase
